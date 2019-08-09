@@ -3,8 +3,8 @@ import { Store } from '@ngrx/store';
 import { AddToCart, RemoveFromCart } from '../store/actions'
 export interface Product {
   name: string,
-  description: string,
   price: number,
+  description: string,
   image: string,
 
 }

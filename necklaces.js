@@ -1,6 +1,6 @@
 module.exports = [
     {
-        // 'id': 1,
+
         'name': "Pearls/leather",
         'description': "maybe have hover event to open description?",
         'image': "https://i.etsystatic.com/15336035/c/1476/1175/0/791/il/2a0699/1959348224/il_680x540.1959348224_dz83.jpg",

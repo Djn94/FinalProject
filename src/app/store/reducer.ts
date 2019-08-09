@@ -1,5 +1,4 @@
 import { ActionsUnion, ActionTypes } from './actions';
-import { Action } from 'rxjs/internal/scheduler/Action';
 export const initialState = {
     items: [],
     cart: []
