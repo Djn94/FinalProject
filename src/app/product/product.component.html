@@ -1,13 +1,13 @@
 <div class="product">
     <div class="product-image-holder">
-        <img src="product.image" alt="product.name" class="product-image" />
+        <img src="https://files.ontario.ca/small-biz-advice.png" alt="product.name" class="product-image" />
     </div>
     <div class="product-details">
-        <p class="product-details__name">{{necklace.name}}</p>
-        <p class="product-details__price">${{product.price}}</p>
+        <p class="product-details__name">necklace.name</p>
+        <p class="product-details__price">product.price</p>
     </div>
     <div class="product-description">
-        <p>{{product.description}}</p>
+        <p>product.description</p>
     </div>
     <div class="product-actions">
         <button class="product-actions__add" (click)="addToCart(product)" *ngIf="!inCart">
