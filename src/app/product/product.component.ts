@@ -1,6 +1,7 @@
 import { Component, OnInit, Input } from '@angular/core';
 import { Store } from '@ngrx/store';
 import { AddToCart, RemoveFromCart } from '../store/actions'
+// import { Product } from "../model/product";
 export interface Product {
   name: string,
   price: number,

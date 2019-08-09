@@ -6,14 +6,24 @@ module.exports = [
         'image': "https://i.etsystatic.com/15336035/c/1476/1175/0/791/il/2a0699/1959348224/il_680x540.1959348224_dz83.jpg",
         'price': 100
     },
-    // {
-    //     id: 2,
-    //     type: "necklace",
-    //     productName: "Neck w ears",
-    //     description: "Or even just make the images links to the items own template page",
-    //     imgUrl: "https://i.etsystatic.com/15336035/c/2250/1788/0/979/il/b3c755/1602902767/il_680x540.1602902767_b1t6.jpg",
-    //     price: 100
-    // },
+    {
+        name: "Neck w ears",
+        description: "Or even just make the images links to the items own template page",
+        image: "https://i.etsystatic.com/15336035/c/2250/1788/0/979/il/b3c755/1602902767/il_680x540.1602902767_b1t6.jpg",
+        price: 100
+    },
+    {
+        name: "Neck w ears",
+        description: "Or even just make the images links to the items own template page",
+        image: "https://i.etsystatic.com/15336035/c/2250/1788/0/979/il/b3c755/1602902767/il_680x540.1602902767_b1t6.jpg",
+        price: 100
+    },
+    {
+        name: "Neck w ears",
+        description: "Or even just make the images links to the items own template page",
+        image: "https://i.etsystatic.com/15336035/c/2250/1788/0/979/il/b3c755/1602902767/il_680x540.1602902767_b1t6.jpg",
+        price: 100
+    },
     // {
     //     id: 3,
     //     type: "necklace",
